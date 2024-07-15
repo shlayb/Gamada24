@@ -29,6 +29,7 @@ export default function DayOne() {
             <CheckItem item="Jilbab Segiempat Polos (jika pakai)" />
             <CheckItem item="Sepatu Tertutup, disarankan berwarna gelap" />
             <CheckItem item="Kaos kaki Berwarna bebas, menutup mata kaki" />
+            <hr className="my-2 border-[1px] " />
             <h2 className="text-lg font-medium pt-4 pb-2">ATK Dan Perlengkapan Pribadi:</h2>
             <div className="px-4">
               <CheckItem item="Bolpoin" />

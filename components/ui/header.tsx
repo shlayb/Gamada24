@@ -46,7 +46,7 @@ function Header() {
                 <a href="/#Day2" className="px-2 py-4 text-lg font-semibold transition duration-300 dark:text-light hover:text-gray-900">
                   Day 2+5
                 </a>
-                <a href="/#contact" className="px-2 py-4 text-lg font-semibold transition duration-300 dark:text-light hover:text-gray-900">
+                <a href="/#Fakultas" className="px-2 py-4 text-lg font-semibold transition duration-300 dark:text-light hover:text-gray-900">
                   Fakultas
                 </a>
               </div>
@@ -81,7 +81,7 @@ function Header() {
               </a>
             </li>
             <li>
-              <a href="/#contact" className=" block border-b-[1px] border-dartext-dark px-2 py-4 text-sm font-semibold text-gray-600 dark:text-light transition duration-300 hover:bg-gray-200 ">
+              <a href="/#Fakultas" className=" block border-b-[1px] border-dartext-dark px-2 py-4 text-sm font-semibold text-gray-600 dark:text-light transition duration-300 hover:bg-gray-200 ">
                 Atribut Fakultas
               </a>
             </li>

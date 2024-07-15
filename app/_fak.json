@@ -1,0 +1,78 @@
+[
+  {
+    "fakultas": "Ekonomi dan Bisnis",
+    "src": "/pdf/feb.pdf"
+  },
+  {
+    "fakultas": "Farmasi",
+    "src": "/pdf/farmasi.pdf"
+  },
+  {
+    "fakultas": "Filsafat",
+    "src": "/pdf/filsafat.pdf"
+  },
+  {
+    "fakultas": "Geografi",
+    "src": "/pdf/geografi.pdf"
+  },
+  {
+    "fakultas": "Hukum",
+    "src": "/pdf/hukum.pdf"
+  },
+  {
+    "fakultas": "Ilmu Budaya",
+    "src": "/pdf/fib.pdf"
+  },
+  {
+    "fakultas": "Ilmu Sosial dan Ilmu Politik",
+    "src": "/pdf/fisip.pdf"
+  },
+  {
+    "fakultas": "Kedokteran Gigi",
+    "src": "/pdf/fkg.pdf"
+  },
+  {
+    "fakultas": "Kedokteran Hewan",
+    "src": "/pdf/fkg.pdf"
+  },
+  {
+    "fakultas": "Kehutanan",
+    "src": "/pdf/fkt.pdf"
+  },
+  {
+    "fakultas": "Kedokteran, Kesehatan Masyarakat, dan Keperawatan",
+    "src": "/pdf/fkkmk.pdf"
+  },
+  {
+    "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+    "src": "/pdf/mipa.pdf"
+  },
+  {
+    "fakultas": "Pertanian",
+    "src": "/pdf/faperta.pdf"
+  },
+  {
+    "fakultas": "Peternakan",
+    "src": "/pdf/fapet.pdf"
+  },
+  {
+    "fakultas": "Psikologi",
+    "src": "/pdf/psiko.pdf"
+  },
+  {
+    "fakultas": "Teknik",
+    "src": "/pdf/teknik.pdf"
+  },
+  {
+    "fakultas": "Teknologi Pertanian",
+    "src": "/pdf/ftp.pdf"
+  },
+  {
+    "fakultas": "Vokasi",
+    "src": "/pdf/sv.pdf"
+  },
+  {
+    "fakultas": "Farmasi",
+    "src": "/pdf/farmasi.pdf"
+  }
+]

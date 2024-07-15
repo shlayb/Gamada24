@@ -40,7 +40,7 @@ export default function DayTwo() {
               </i>
             </div>
             <CheckItem item="Print out LP.K. 2.2_Yuk Kelola Keuanganmu" link="http://ugm.id/LPKKEUANGAN" />
-            <div className="flex items-center m-2 py-3 px-6 w-full rounded-xl mx-auto bg-green-300 border-green-900 border-[1px] dark:text-green-950 dark:border-lime-100">
+            <div className="flex items-center m-8 py-3 px-6 w-full rounded-xl mx-auto bg-green-300 border-green-900 border-[1px] dark:text-green-950 dark:border-lime-100">
               <i className="mr-5 scale-150 fa-solid fa-lightbulb "></i>
               <div>
                 <h3 className="font-medium text-xl py-1">Catatan Khusus</h3>
