@@ -1,6 +1,9 @@
 import CheckItem from './checkboxitem';
 
 export default function DayOne() {
+  
+
+
   return (
     <>
       <div className="py-16 px-4">
