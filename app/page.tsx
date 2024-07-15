@@ -2,7 +2,8 @@ import DayOne from '@/components/ui/dayone';
 import Image from 'next/image';
 import { Poppins } from 'next/font/google';
 import Hero from '@/components/ui/hero';
-Hero;
+import DayTwo from '@/components/ui/daytwo';
+DayTwo;
 
 const poppins = Poppins({
   subsets: ['latin'],
@@ -20,6 +21,9 @@ export default function Home() {
           </div>
           <div id="Day1">
             <DayOne />
+          </div>
+          <div id="Day2">
+            <DayTwo />
           </div>
         </div>
       </div>

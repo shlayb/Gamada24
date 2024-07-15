@@ -18,14 +18,20 @@ export default function Hero() {
             <p className="">Webiste ini dibuat untuk memudahkan para gamada </p>
             <p className="">yang sedang bersiap menghadapi masa PPSMB 2024 </p>
           </div>
-          <div className="flex justify-center">
-            <a href="https://pionir.ugm.ac.id/2024/kegiatan/atribut/atribut-hari-ke-1-dan-ke-6/" target="_blank" className="p-2 px-5 rounded-full text-center border-slate-800 border-[1px]  bg-blue-500">
-              <button className="text-md">Refernsi Data</button>
+          <div className="flex justify-center py-5">
+            <a href="/#Day1" className="p-2 px-5 rounded-full text-center border-slate-800 border-[1px]  bg-blue-500">
+              <button className="text-md">Get Started!</button>
             </a>
           </div>
 
           <p className="py-5 text-center">
-            Created by : <a href="https://www.instagram.com/shlayb">shlayb</a>
+            Created by :{' '}
+            <a href="https://www.instagram.com/shlayb">
+              <i className="fa-brands fa-instagram"></i> shlayb
+            </a>{' '}
+            <a href="https://www.instagram.com/runs_664/">
+              <i className="fa-brands fa-instagram"></i> runs_664
+            </a>
           </p>
         </div>
       </div>
