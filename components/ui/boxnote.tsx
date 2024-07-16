@@ -10,7 +10,7 @@ export default function BoxNote({ list }: BoxNoteProps) {
           {list
             ? list.map((item, index) => {
                 return (
-                  <li key={index} className="text-md">
+                  <li key={index} className="text-md max-lg:text-sm">
                     {item}
                   </li>
                 );

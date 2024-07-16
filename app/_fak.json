@@ -1,5 +1,6 @@
 [
   {
+    "public": true,
     "fakultas": "Ekonomi dan Bisnis",
     "src": "/pdf/feb.pdf",
     "kebutuhan": [
@@ -40,6 +41,7 @@
     ]
   },
   {
+    "public": true,
     "fakultas": "Farmasi",
     "src": "/pdf/farmasi.pdf",
     "kebutuhan": [
@@ -75,6 +77,7 @@
     ]
   },
   {
+    "public": true,
     "fakultas": "Filsafat",
     "src": "/pdf/filsafat.pdf",
     "kebutuhan": [
@@ -101,67 +104,78 @@
     ]
   },
   {
+    "public": false,
     "fakultas": "Geografi",
     "src": "/pdf/geografi.pdf"
   },
   {
+    "public": false,
     "fakultas": "Hukum",
     "src": "/pdf/hukum.pdf"
   },
   {
+    "public": false,
     "fakultas": "Ilmu Budaya",
     "src": "/pdf/fib.pdf"
   },
   {
+    "public": false,
     "fakultas": "Ilmu Sosial dan Ilmu Politik",
     "src": "/pdf/fisip.pdf"
   },
   {
+    "public": false,
     "fakultas": "Kedokteran Gigi",
     "src": "/pdf/fkg.pdf"
   },
   {
+    "public": false,
     "fakultas": "Kedokteran Hewan",
     "src": "/pdf/fkg.pdf"
   },
   {
+    "public": false,
     "fakultas": "Kehutanan",
     "src": "/pdf/fkt.pdf"
   },
   {
+    "public": false,
     "fakultas": "Kedokteran, Kesehatan Masyarakat, dan Keperawatan",
     "src": "/pdf/fkkmk.pdf"
   },
   {
+    "public": false,
     "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
     "src": "/pdf/mipa.pdf"
   },
   {
+    "public": false,
     "fakultas": "Pertanian",
     "src": "/pdf/faperta.pdf"
   },
   {
+    "public": false,
     "fakultas": "Peternakan",
     "src": "/pdf/fapet.pdf"
   },
   {
+    "public": false,
     "fakultas": "Psikologi",
     "src": "/pdf/psiko.pdf"
   },
   {
+    "public": false,
     "fakultas": "Teknik",
     "src": "/pdf/teknik.pdf"
   },
   {
+    "public": false,
     "fakultas": "Teknologi Pertanian",
     "src": "/pdf/ftp.pdf"
   },
   {
+    "public": false,
     "fakultas": "Vokasi",
     "src": "/pdf/sv.pdf"
-  },
-  {
-    "fakultas": "Farmasi",
-    "src": "/pdf/farmasi.pdf"
   }
 ]

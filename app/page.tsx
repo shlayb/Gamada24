@@ -4,6 +4,7 @@ import { Poppins } from 'next/font/google';
 import Hero from '@/components/ui/hero';
 import DayTwo from '@/components/ui/daytwo';
 import Fakultas from '@/components/ui/fakultas';
+import GetId from '@/components/ui/getid';
 DayTwo;
 
 const poppins = Poppins({
@@ -19,6 +20,9 @@ export default function Home() {
         <div className="px-[12.5%] mx-auto max-lg:px-[5%] ">
           <div>
             <Hero />
+          </div>
+          <div id="Getid">
+            <GetId />
           </div>
           <div id="Day1">
             <DayOne />

@@ -21,7 +21,7 @@ const config = {
       },
       colors: {
         scndary: '#9ca3af',
-        dark: '#02021a',
+        dark: '#09090b',
         semidark: '#1e293b',
         light: '#f3f4f6',
         border: 'hsl(var(--border))',

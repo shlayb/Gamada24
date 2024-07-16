@@ -1,4 +1,6 @@
 import { Poppins } from 'next/font/google';
+import Image from 'next/image';
+Image;
 Hero;
 
 const poppins = Poppins({
@@ -28,10 +30,12 @@ export default function Hero() {
             Created by :{' '}
             <a href="https://www.instagram.com/shlayb">
               <i className="fa-brands fa-instagram"></i> shlayb
-            </a>{' '}
-            {/* <a href="https://www.instagram.com/runs_664/">
-              <i className="fa-brands fa-instagram"></i> runs_664
-            </a> */}
+            </a>
+            <br />
+            Support me on :{' '}
+            <a href="https://saweria.co/ayyubi" className="text-blue-700">
+              Saweria.com
+            </a>
           </p>
         </div>
       </div>
