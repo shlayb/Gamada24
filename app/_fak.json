@@ -1,15 +1,104 @@
 [
   {
     "fakultas": "Ekonomi dan Bisnis",
-    "src": "/pdf/feb.pdf"
+    "src": "/pdf/feb.pdf",
+    "kebutuhan": [
+      "Co-card PIONIR SIMFONI 2024",
+      "Kemeja bebas berkerah (lengan pendek/panjang) dan jas almamater",
+      "Celana panjang formal (bukan jeans), warna hitam, tidak ketat (laki-laki)",
+      "Rok bahan warna hitam (bukan jeans/sifon), panjang, polos, tanpa belahan berlebihan, tidak ketat, tidak transparan (perempuan)",
+      "Rambut bersih, rapi, tidak berwarna, rambut panjang diikat (laki-laki tidak menyentuh alis)",
+      "Kerudung warna menyesuaikan, polos (disarankan berwarna gelap)",
+      "Sepatu tertutup dan dominan berwarna gelap (disarankan hitam)",
+      "Kaus kaki berwarna bebas minimal semata kaki",
+      "Tidak menggunakan makeup secara berlebihan",
+      "Menggunakan ikat pinggang jika diperlukan (opsional)"
+    ],
+    "ATK": [
+      "Bolpoin hitam",
+      "Bolpoin berwarna atau spidol berwarna (minimal 2)",
+      "Correction pen",
+      "Penggaris",
+      "Clipboard",
+      "Tas",
+      "Botol air minum (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Masker cadangan",
+      "Hand sanitizer/tisu basah",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "perlengkapankhusus": ["Foto bebas ukuran 2R untuk pengisian booklet", "Double tape"],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas",
+      "Lapor ke pemandu/co-facilitator jika memiliki masalah kesehatan (sertai surat dokter jika perlu), dan siapkan pita merah serta peniti untuk dikenakan di lengan kiri selama kegiatan",
+      "Siapkan kebutuhan secara mandiri jika menjalani diet khusus",
+      "Tidak membawa dan memakai perhiasan berlebihan",
+      "Tidak membawa senjata tajam dan NAPZA (Narkoba, Psikotropika, dan Zat Adiktif lainnya)",
+      "Tidak merokok/vape selama kegiatan",
+      "Wajib menjaga kehormatan diri dan institusi"
+    ]
   },
   {
     "fakultas": "Farmasi",
-    "src": "/pdf/farmasi.pdf"
+    "src": "/pdf/farmasi.pdf",
+    "kebutuhan": [
+      "Name tag menggunakan name tag dari PIONIR Gadjah Mada 2024.",
+      "Pakaian atas (Jas almamater + Kemeja berwarna putih, berkerah, tidak menerawang, dan tidak ketat)",
+      "Pakaian bawah",
+      "Laki-laki: celana panjang sampai mata kaki, bahan formal (bukan jeans/denim), warna hitam, dan tidak ketat ",
+      "Perempuan: rok hitam (bukan bahan jeans/sifon) polos, panjang semata kaki, rapi, sopan (tidak ketat dan tidak menerawang), model bebas ",
+      "Sepatu tertutup, warna dominan hitam ",
+      "Kaus kaki warna putih, panjang minimal menutup mata kaki ",
+      "Rambut",
+      "Laki-laki: tidak disemir warna, tidak menyentuh alis dan telinga",
+      "Jika berjilbab, jilbab segi empat polos berwarna bebas, tidak menerawang",
+      "Kuku tidak panjang dan tidak dicat warna"
+    ],
+    "ATK": [
+      "Alat tulis secukupnya",
+      "Botol minum minimal 750 ml",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Tisu ukuran travel pack",
+      "Alat ibadah (termasuk sajadah untuk yang beragama Islam)",
+      "Sandal sebagai alat penunjang ibadah untuk yang beragama Islam",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
     "fakultas": "Filsafat",
-    "src": "/pdf/filsafat.pdf"
+    "src": "/pdf/filsafat.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Dialektika 2024 (L.AT.3.1.)",
+      "Pakaian atas",
+      "Pakaian PUTIH berkerah lengan panjang",
+      "Pakaian bawah",
+      "Menggunakan celana berwarna gelap (disarankan hitam) dengan dilapisi kain jarik BATIK, warna dan motif bebas, rapi, dan sopan (L.AT.3.2.)",
+      "Rambut rapi dan berwarna natural.",
+      "Jika berhijab, mengenakan hijab segi empat polos berwarna gelap (disarankan berwarna hitam)",
+      "Sepatu tertutup dan berwarna gelap (disarankan berwarna hitam)",
+      "Kaos kaki berwarna bebas dengan ukuran minimal setengah kaki"
+    ],
+    "ATK": [
+      "Bolpoin",
+      "Buku catatan/buku tulis",
+      "Correction pen/tipe",
+      "Papan dada (opsional)",
+      "Tas ransel",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Alat ibadah",
+      "Obat pribadi"
+    ]
   },
   {
     "fakultas": "Geografi",

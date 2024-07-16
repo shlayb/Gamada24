@@ -9,7 +9,7 @@ export default function Fakultas() {
         <hr className="my-2 border-[1px] " />
         <div className="grid grid-cols-1 gap-2 ">
           {kluster.map((fak, index) => {
-            return <FakDrop key={index} fakultas={fak.fakultas} src={fak.src} />;
+            return <FakDrop key={index} fakultas={fak.fakultas} src={fak.src} kebutuhan={fak.kebutuhan} ATK={fak.ATK} catatankhusus={fak.catatanKhusus} perlengkapankhusus={fak.perlengkapankhusus} />;
           })}
         </div>
       </div>
