@@ -1,5 +1,4 @@
 import DayOne from '@/components/ui/dayone';
-import Image from 'next/image';
 import { Poppins } from 'next/font/google';
 import Hero from '@/components/ui/hero';
 import DayTwo from '@/components/ui/daytwo';

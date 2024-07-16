@@ -4,7 +4,13 @@ import kluster from '../../app/_fak.json';
 import { use, useEffect, useState } from 'react';
 
 export default function Fakultas() {
-  const [found, setFound] = useState(false);
+  const [fakultas, setFakultas] = useState('');
+  useEffect(() => {
+    const kluster = localStorage.getItem('fakultas');
+    if (kluster !== null) {
+      setFakultas(kluster);
+    }
+  }, []);
 
   return (
     <div>
@@ -13,7 +19,7 @@ export default function Fakultas() {
         <hr className="my-2 border-[1px] " />
         <div className="grid grid-cols-1 gap-2 ">
           {kluster.map((fak, index) => {
-            if (fak.fakultas === localStorage.getItem('fakultas')) {
+            if (fak.fakultas === fakultas) {
               return fak.public ? (
                 <FakDrop key={index} fakultas={fak.fakultas} src={fak.src} kebutuhan={fak.kebutuhan} ATK={fak.ATK} catatankhusus={fak.catatanKhusus} perlengkapankhusus={fak.perlengkapankhusus} />
               ) : (
