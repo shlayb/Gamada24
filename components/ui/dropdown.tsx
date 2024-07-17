@@ -18,14 +18,14 @@ export default function DropDown() {
   const [open, setOpen] = useState(false);
   const [value, setValue] = useState('');
   useEffect(() => {
-    const cachedValue = localStorage.getItem('fakultas');
+    const cachedValue = document.cookie.replace(/(?:(?:^|.*;\s*)fakultas\s*\=\s*([^;]*).*$)|^.*$/, '$1');
     if (cachedValue) {
       setValue(cachedValue);
     }
   }, []);
 
   useEffect(() => {
-    localStorage.setItem('fakultas', value || '');
+    document.cookie = `fakultas=${value || ''}`;
   }, [value]);
 
   return (
@@ -55,7 +55,7 @@ export default function DropDown() {
                     onClick={() => {
                       setValue(framework.fakultas);
                     }}
-                    className='text-left'
+                    className="text-left"
                   >
                     Fakultas {framework.fakultas}
                   </button>

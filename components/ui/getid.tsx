@@ -7,7 +7,7 @@ export default function GetId() {
   const [name, setName] = useState('');
 
   useEffect(() => {
-    const cachedName = localStorage.getItem('username');
+    const cachedName = document.cookie.replace(/(?:(?:^|.*;\s*)username\s*\=\s*([^;]*).*$)|^.*$/, '$1');
     if (cachedName) {
       setName(cachedName);
     }
@@ -16,13 +16,13 @@ export default function GetId() {
   const handleNameChange = (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
     const newName = (document.getElementById('MyName') as HTMLInputElement)?.value;
     setName(newName);
-    localStorage.setItem('username', newName);
+    document.cookie = `username=${newName}`;
     window.location.reload();
   };
 
   return (
     <>
-      <div className="w-full h-auto p-4">
+      <div className="w-full h-auto p-4 max-lg:pt-20">
         <div className="flex gap-4 max-lg:grid max-lg:justify ">
           <input
             id="MyName"

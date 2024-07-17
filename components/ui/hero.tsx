@@ -21,7 +21,7 @@ export default function Hero() {
             <p className="">yang sedang bersiap menghadapi masa PPSMB 2024 </p>
           </div>
           <div className="flex justify-center py-5">
-            <a href="/#Day1" className="p-2 px-5 rounded-full text-center border-slate-800 border-[1px]  bg-blue-500">
+            <a href="/#Getid" className="p-2 px-5 rounded-full text-center border-slate-800 border-[1px]  bg-blue-500">
               <button className="text-md">Get Started!</button>
             </a>
           </div>

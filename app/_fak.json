@@ -81,11 +81,11 @@
     "fakultas": "Filsafat",
     "src": "/pdf/filsafat.pdf",
     "kebutuhan": [
-      "Co-card, menggunakan co-card PIONIR Dialektika 2024 (L.AT.3.1.)",
+      "Co-card, menggunakan co-card PIONIR Dialektika 2024 ",
       "Pakaian atas",
       "Pakaian PUTIH berkerah lengan panjang",
       "Pakaian bawah",
-      "Menggunakan celana berwarna gelap (disarankan hitam) dengan dilapisi kain jarik BATIK, warna dan motif bebas, rapi, dan sopan (L.AT.3.2.)",
+      "Menggunakan celana berwarna gelap (disarankan hitam) dengan dilapisi kain jarik BATIK, warna dan motif bebas, rapi, dan sopan ",
       "Rambut rapi dan berwarna natural.",
       "Jika berhijab, mengenakan hijab segi empat polos berwarna gelap (disarankan berwarna hitam)",
       "Sepatu tertutup dan berwarna gelap (disarankan berwarna hitam)",
@@ -101,17 +101,103 @@
       "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
       "Alat ibadah",
       "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Filsuf Muda WAJIB mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan WAJIB LAPOR Co-Facilitator (jika perlu, disertai surat dokter). Panitia akan menyiapkan pita merah, pita kuning, dan peniti yang akan dikenakan di lengan kiri dan WAJIB dipakai selama kegiatan.",
+      "Bagi Filsuf Muda yang sedang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Filsuf Muda dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Filsuf Muda dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Filsuf Muda dilarang merokok/vape selama kegiatan.",
+      "Setiap Filsuf Muda wajib menjaga kehormatan diri dan institusi."
     ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Geografi",
-    "src": "/pdf/geografi.pdf"
+    "src": "/pdf/geografi.pdf",
+    "kebutuhan": [
+      "Co-Card, menggunakan co-card PIONIR Geospace 2024",
+      "Pakaian atas berupa jas almamater dengan kemeja batik lengan panjang atau pendek yang rapi dan sopan (tidak ketat dan tidak menerawang).",
+      "Pakaian bawah:",
+      "a. Laki-laki: celana panjang bahan formal (bukan jeans) warna hitam tidak menerawang, dan tidak ketat .",
+      "b. Perempuan: rok bahan hitam/gelap (bukan jeans/sifon) polos panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang).",
+      "Rambut rapi dan berwarna natural (diikat rapi jika panjang melebihi bahu).",
+      "Jika berjilbab, mengenakan jilbab segi empat polos berwarna hitam.",
+      "Sepatu tertutup dan disarankan berwarna dominan gelap.",
+      "Kaus kaki berwarna bebas minimal setengah kaki."
+    ],
+    "ATK": [
+      "Bolpoin berwarna bebas",
+      "Buku catatan/buku tulis",
+      "Kertas HVS 2 lembar",
+      "Correction pen (opsional)",
+      "Penggaris",
+      "Clipboard",
+      "Tas ransel",
+      "Botol air minum, disarankan minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Spidol berwarna (selain warna hitam) minimal 2",
+      "Lem kertas atau selotip bening atau double tape",
+      "Tisu basah",
+      "Hand sanitizer",
+      "Alat ibadah",
+      "Obat pribadi",
+      "Payung atau jas hujan plastik (ponco)"
+    ],
+    "perlengkapankhusus": ["Membawa 2 lembar kertas origami dengan ukuran dan warna kertas bebas "],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter), wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Hukum",
-    "src": "/pdf/hukum.pdf"
+    "src": "/pdf/hukum.pdf",
+    "kebutuhan": [
+      "Name tag, menggunakan name tag PIONIR Justicia 2024 (L.AT.3.1)",
+      "Pakaian atas:",
+      "a. Kemeja batik berkerah lengan pendek atau panjang.",
+      "b. Jas almamater.",
+      "Pakaian bawah:\n  a. Laki-laki: Celana panjang bahan formal (bukan jeans) warna hitam, dan tidak ketat (L.AT.3.2).\n  b. Perempuan: Rok bahan hitam (bukan jeans/sifon) polos, panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang) (L.AT.3.2).\n  c. Rambut rapi dan berwarna natural.",
+      "Jika berjilbab, mengenakan jilbab segi empat polos berwarna bebas.",
+      "Sepatu tertutup (berwarna bebas).",
+      "Kaos kaki berwarna bebas minimal semata kaki."
+    ],
+    "ATK": [
+      "Bolpoin berwarna hitam",
+      "Buku catatan/buku tulis",
+      "Kertas HVS 2 lembar",
+      "Correction pen",
+      "Penggaris",
+      "Clipboard",
+      "Tas ransel",
+      "Botol air minum, minimal 750 ml (tumbler)",
+      "Alat makan: sendok garpu dan kotak makan (bukan sekali pakai)",
+      "Spidol berwarna (selain warna hitam) minimal 2",
+      "Lentera senter/ senter biasa dengan baterai minimal 3 buah",
+      "Masker kain atau masker bedah atau double masker sebanyak 3 lembar",
+      "Lem kertas atau selotip bening atau double tape sebanyak 3 lembar",
+      "Hand sanitizer",
+      "Alat ibadah",
+      "Obat pribadi",
+      "HP (handphone) atau gawai sejenis untuk menunjang kegiatan"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
     "public": false,

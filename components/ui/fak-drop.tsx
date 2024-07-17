@@ -1,5 +1,5 @@
 'use client';
-import { use, useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 import CheckItem from './checkboxitem';
 import BoxNote from './boxnote';
 
@@ -24,7 +24,13 @@ export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, 
 
   return (
     <>
-      <div className="w-full h-auto mx-auto my-2 rounded-xl text-dark dark:text-light cursor-pointer transition-all duration-100">
+      <div className="container h-auto mx-auto my-2 rounded-xl text-dark dark:text-light cursor-pointer transition-all duration-100">
+        <div className="flex justify-center">
+          <a href={src} download={fakultas + '.pdf'} target="_blank" className="text-center text-blue-500 font-normal text-xl p-2 w-full">
+            <button>Dowload PDF</button>
+          </a>
+        </div>
+
         {/* {isOpen ? (
           <div ref={pdf} className="flex justify-center px-1 py-2 pb-4 transition-all ease-linear duration-1000">
             <iframe src={src} className="w-[90%] aspect-3/4"></iframe>
@@ -58,7 +64,7 @@ export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, 
             <hr className="my-2 border-[1px] " />
             {perlengkapankhusus
               ? perlengkapankhusus.map((item, index) => {
-                  return <CheckItem key={index} item={item} />;
+                  return <CheckItem key={index} item={'Pada Hari ke-3 : ' + item} />;
                 })
               : null}
           </div>
