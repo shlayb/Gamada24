@@ -26,8 +26,8 @@ export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, 
     <>
       <div className="w-full h-auto mx-auto my-2 rounded-xl text-dark dark:text-light cursor-pointer transition-all duration-100">
         <div className="flex justify-center">
-          <a href={src} download={fakultas + '.pdf'} target="_blank" className="text-center text-blue-500 font-normal text-xl p-2 w-full">
-            <button>Dowload PDF</button>
+          <a href={src} download={'Pionir Fakultas ' + fakultas + '.pdf'} target="_blank" className="text-center text-light font-normal text-xl p-2 w-full">
+            <button className="w-full bg-blue-500 py-2 rounded-xl border-[1px] hover:border-[1px] hover:border-slate-700">Dowload PDF</button>
           </a>
         </div>
 

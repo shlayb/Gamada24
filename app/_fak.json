@@ -200,68 +200,608 @@
     ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Ilmu Budaya",
-    "src": "/pdf/fib.pdf"
+    "src": "/pdf/fib.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR 2024 (L.AT.3.1.)",
+      "Pakaian atas: atasan batik.",
+      "Pakaian bawah:",
+      "  Laki-laki: celana panjang formal (bukan jeans) berwarna gelap, tidak ketat, dan tidak menerawang",
+      "  Perempuan: rok bahan (bukan jeans/sifon), warna gelap polos, panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang) (L.AT.3.2.)",
+      "Rambut:",
+      "  Rapi.",
+      "  Jika berjilbab, mengenakan jilbab segi empat polos warna bebas.",
+      "Sepatu model tertutup.",
+      "Kaos kaki berwarna bebas minimal semata kaki.",
+      "Botol Plastik Bekas 1,5L"
+    ],
+    "ATK": [
+      "ATK (bolpoin, pensil, correction pen, dan alat tulis lain yang diperlukan)",
+      "Buku catatan/buku tulis",
+      "Kertas HVS A4 2 lembar",
+      "Pensil warna",
+      "Spidol permanen berwarna merah, biru, dan hijau",
+      "Clipboard",
+      "Gunting atau cutter",
+      "Double tape putih",
+      "Tas ransel",
+      "Botol air minum minimal 750 ml",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Tisu basah",
+      "Hand sanitizer/tisu basah",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Ilmu Sosial dan Ilmu Politik",
-    "src": "/pdf/fisip.pdf"
+    "src": "/pdf/fisip.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Society 2024 (L.AT.3.1.)",
+      "Pakaian atas: Atasan bebas berkerah dan sopan (bukan kaus) (L.AT.3.2.)",
+      "Pakaian bawah: Laki-laki: celana panjang bahan formal (bukan jeans) warna bebas, dan tidak ketat (L.AT.3.2.)",
+      "Pakaian bawah: Perempuan: rok atau celana bahan formal (bukan jeans/sifon) warna bebas polos, panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang) (L.AT.3.2.)",
+      "Rambut ditata rapi dan disarankan berwarna hitam (L.AT.3.2.)",
+      "Jika berjilbab, mengenakan jilbab segi empat polos berwarna bebas (L.AT.3.2.)",
+      "Ikat pinggang (disarankan hitam) (L.AT.3.2.)",
+      "Sepatu tertutup dan dominan berwarna gelap (disarankan hitam) (L.AT.3.2.)",
+      "Kaus kaki berwarna bebas, minimal semata kaki (L.AT.3.2.)"
+    ],
+    "ATK": [
+      "Bolpoin hitam",
+      "Buku catatan/buku tulis",
+      "Correction pen",
+      "Tas ransel atau selempang",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Masker medis dan membawa masker cadangan minimal 3 lembar",
+      "Hand sanitizer",
+      "Alat ibadah",
+      "Obat pribadi",
+      "Topi",
+      "Sunscreen",
+      "Clipboard"
+    ],
+    "perlengkapankhusus": ["Hari Ke-1 : Alat mewarnai berupa 1 set spidol berwarna bebas", "Kertas Ke-1 : lipat ukuran 18 cm x 18 cm berwarna bebas, warna bolak-balik"],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Kedokteran Gigi",
-    "src": "/pdf/fkg.pdf"
+    "src": "/pdf/fkg.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR I-Dentistry 2024 (L.AT.3.1.)",
+      "Pakaian atas, Kemeja bebas berlengan pendek atau panjang dengan jas almamater Universitas Gadjah Mada (L.AT.3.2)",
+      "Pakaian bawah :",
+      "  Laki-laki: celana panjang bahan formal (bukan jeans), berwarna gelap, dan tidak ketat (L.AT.3.2). ",
+      "  Perempuan: rok bahan berwarna gelap (bukan jeans/sifon) polos, panjang semata kaki, rapi, tanpa belahan berlebihan, sopan (tidak ketat dan tidak menerawang), dan model bebas (L.AT.3.2)",
+      "Rambut : ",
+      "Laki-laki: rambut rapi dan bersih, pendek tidak menyentuh telinga, dan berwarna asli (tidak boleh diwarnai). ",
+      "Perempuan: rambut rapi dan bersih (bagi yang berambut panjang diikat satu rapi) dan berwarna asli (tidak boleh diwarnai)",
+      "Jika berjilbab, mengenakan jilbab segi empat polos sederhana berwarna gelap",
+      "Sepatu, Sepatu tertutup (menutupi punggung kaki), berjenis sneakers/kets, dan dominan berwarna gelap. Tidak boleh mengenakan sandal, flat shoes, high heels, atau semacamnya",
+      "Kaus kaki, Kaus kaki polos berwarna cerah menutup mata kaki"
+    ],
+    "ATK": [
+      "Bolpoin hitam",
+      "Buku catatan/buku tulis",
+      "Correction pen",
+      "Penggaris",
+      "Clipboard",
+      "Tas ransel",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Spidol berwarna (selain warna hitam) minimal 2",
+      "Tisu basah",
+      "Hand sanitizer",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan fakultas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam, flare, petasan, obat-obatan terlarang, dan benda berbahaya lainnya.",
+      "Dilarang merokok (elektrik dan non-elektrik) dan membawa minuman beralkohol selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi.",
+      "Dilarang melakukan tindakan asusila."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Kedokteran Hewan",
-    "src": "/pdf/fkg.pdf"
+    "src": "/pdf/fkg.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Vetebrae 2024 (L.AT.3.1.).",
+      "Slayer",
+      "Akan diberikan oleh fakultas pada hari pelaksanaan PIONIR Vetebrae 2024 (L.AT.3.2.).",
+      "Pakaian:",
+      "Pakaian atas:",
+      "Laki-laki: kemeja putih bahan formal dan berkerah, menggunakan jas almamater (L.AT.3.3.).",
+      "Perempuan: kemeja putih bahan formal dan berkerah, menggunakan jas almamater (L.AT.3.3.).",
+      "Pakaian bawah:",
+      "Laki-laki: celana panjang bahan formal (bukan jeans) warna gelap (disarankan hitam), dan tidak ketat (L.AT.3.3.).",
+      "Perempuan: rok bahan (bukan jeans/sifon) warna gelap (disarankan hitam) polos, panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang) (L.AT.3.3.).",
+      "Rambut rapi dan kuku:",
+      "Rambut rapi, bersih, dan tidak dicat warna.",
+      "Bagi perempuan dan laki-laki apabila berambut panjang wajib diikat (tidak tergerai).",
+      "Jika berjilbab, jilbab segi empat berwarna hitam polos dan tidak transparan.",
+      "Kuku dipotong pendek, bersih, dan tidak diwarnai.",
+      "Sepatu tertutup dan dominan berwarna gelap (disarankan hitam).",
+      "Kaus kaki berwarna bebas minimal semata kaki."
+    ],
+    "ATK": [
+      "Bolpoin tinta hitam",
+      "Pensil 2B",
+      "Penghapus",
+      "Rautan",
+      "Buku catatan/buku tulis",
+      "Penggaris",
+      "Clipboard",
+      "Tas ransel",
+      "Gawai",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Lem kertas atau selotip bening atau double tape",
+      "Tisu basah dan tisu kering",
+      "Pensil warna (12 warna berbeda/satu set ukuran panjang)",
+      "Masker medis dan membawa masker cadangan 3 lembar",
+      "Hand sanitizer",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon tetap menggunakan pita merah dan peniti di lengan kiri dan dipakai selama kegiatan seperti pada kegiatan PIONIR Gadjah Mada sebelumnya.",
+      "Bagi peserta yang menjalani diet khusus harap menyiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Kehutanan",
-    "src": "/pdf/fkt.pdf"
+    "src": "/pdf/fkt.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Pelestari 2024 (L.AT.3.1.).",
+      "Mengenakan slayer (diberikan oleh panitia).",
+      "Pakaian atas:",
+      "Laki-laki dan perempuan mengenakan kemeja formal berwarna bebas",
+      "(berkerah, tidak croptop, rapi, sopan, dan tidak ketat) (L.AT.3.2.).",
+      "Pakaian bawah:",
+      "Laki-laki mengenakan celana panjang bahan formal (selain jeans),",
+      "berwarna bebas (L.AT.3.2.).",
+      "Perempuan mengenakan celana/rok panjang bahan formal (selain",
+      "jeans), berwarna bebas (L.AT.3.2.).",
+      "Rambut rapi berwarna natural. Bagi perempuan dengan panjang rambut",
+      "melebihi pundak wajib menggunakan ikat rambut (L.AT.3.2.).",
+      "Jika berjilbab, jilbab polos berwarna bebas (L.AT.3.2.).",
+      "Topi, mengenakan topi rimba bertali berwarna bebas (L.AT.3.2.).",
+      "Sepatu tertutup dan warna dominan gelap (disarankan hitam).",
+      "Kaus kaki berwarna bebas minimal semata kaki."
+    ],
+    "ATK": [
+      "Bolpoin hitam",
+      "Buku catatan/buku tulis",
+      "Kertas folio 2 lembar ukuran F4",
+      "Clipboard",
+      "Tas ransel",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Tisu basah",
+      "Masker medis apabila sedang sakit",
+      "Hand sanitizer",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita yang telah diberi panitia yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Kedokteran, Kesehatan Masyarakat, dan Keperawatan",
-    "src": "/pdf/fkkmk.pdf"
+    "src": "/pdf/fkkmk.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card dengan pas foto selama pelaksanaan",
+      "PIONIR Morfogenesis 2024 (L.AT.3.1.).",
+      "Pakaian atas kemeja batik (L.AT.3.2.).",
+      "Pakaian bawah:",
+      "Laki-laki: celana panjang bahan formal (bukan jeans) warna gelap",
+      "(disarankan hitam), polos (tidak bermotif dan tidak bercorak), dan",
+      "tidak ketat (L.AT.3.2.).",
+      "Perempuan: rok bahan (bukan jeans/sifon) warna gelap (disarankan",
+      "hitam), polos (tidak bermotif dan tidak bercorak), panjang semata",
+      "kaki, tipe \"A-line\" atau \"rampel\", rapi dan sopan (tidak ketat dan",
+      "tidak menerawang) (L.AT.3.2.).",
+      "Rambut rapi dan tidak memakai pewarna rambut selain warna hitam.",
+      "Jika berjilbab, mengenakan jilbab segi empat polos (tidak bermotif dan",
+      "tidak bercorak), berwarna bebas kecuali warna hitam.",
+      "Sepatu tertutup dan dominan berwarna gelap (disarankan hitam).",
+      "Kaus kaki berwarna bebas minimal semata kaki."
+    ],
+    "ATK": [
+      "Booklet PIONIR Morfogenesis 2024 (akan dibagikan pada saat hari pertama PIONIR Morfogenesis 2024)",
+      "Bolpoin hitam",
+      "Buku catatan/buku tulis (jenis bebas: ukuran dan jumlah halaman bebas",
+      "Correction pen",
+      "Penggaris dengan ukuran bebas (optional: digunakan saat kegiatan PIONIR Morfogenesis 2024 untuk membuat jawaban terlihat lebih rapi)",
+      "Clipboard (optional: digunakan saat kegiatan PIONIR Morfogenesis 2024 untuk membuat jawaban terlihat lebih rapi)",
+      "Tas ransel (L.AT.3.3.)",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Tisu basah",
+      "Disarankan membawa masker (sebagai cadangan apabila dibutuhkan)",
+      "Hand sanitizer",
+      "Alat ibadah (bagi yang memerlukan)",
+      "Obat pribadi",
+      " Gawai selain laptop, dilengkapi dengan kuota internet yang cukup untuk pengerjaan tugas melalui GAMEL",
+      " Jas hujan atau payung"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon tetap menggunakan pita merah dan peniti di lengan kiri dan dipakai selama kegiatan seperti pada kegiatan PIONIR Gadjah Mada sebelumnya.",
+      "Bagi peserta yang menjalani diet khusus harap menyiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
-    "src": "/pdf/mipa.pdf"
+    "src": "/pdf/mipa.pdf",
+    "kebutuhan": [
+      "Name tag dengan foto informal terlihat wajah secara jelas dan background bebas (L.AT.3.1.Lanyard (tali name tag) bergantung dengan warna kluster (4 warna) (L.AT.3.1.).",
+      "Pakaian atas kemeja batik lengan pendek/panjang (L.AT.3.2.).",
+      "Pakaian bawah",
+      "Laki-laki: celana panjang bahan formal (bukan jeans), berwarna gelap, dan tidak ketat (L.AT.3.2.).",
+      "Perempuan: rok panjang bahan (bukan jeans/sifon) polos, berwarna gelap, panjang semata kaki, rapi, dan sopan (L.AT.3.2.).",
+      "Rambut",
+      "Rambut warna natural dan rapi",
+      "1) Laki-laki: rambut tidak melewati dahi, alis, telinga, dan tengkuk.",
+      "2) Perempuan: wajib diikat jika panjang atau dijepit jika pendek.",
+      "Jika berjilbab, jilbab segiempat polos berwarna bebas.",
+      "Ikat pinggang wajib bagi laki-laki dan berwarna bebas.",
+      "Sepatu tertutup, berwarna bebas (bukan flatshoes), dan berkaus kaki di atas mata kaki.",
+      "Atribut tambahan, membawa karton yang kedua sisinya ditempel dengan kertas asturo biru dan oranye (L.AT.3.3.)."
+    ],
+    "ATK": [
+      "Pensil 2B",
+      "Kertas ukuran A4/folio bergaris",
+      "Rautan",
+      "Penghapus",
+      "Bolpoin hitam",
+      "Correction pen",
+      "Buku catatan/buku tulis",
+      "Penggaris",
+      "Clipboard",
+      "Tas ransel",
+      "Botol minum minimal 750 ml",
+      "Alat makan (sendok, garpu, dan tempat makan)",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon tetap menggunakan pita merah dan peniti di lengan kiri dan dipakai selama kegiatan seperti pada kegiatan PIONIR Gadjah Mada sebelumnya.",
+      "Bagi peserta yang menjalani diet khusus harap menyiapkan keperluannya secara mandiri.",
+      "Dilarang berdandan dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Dilarang melakukan tindakan asusila.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Pertanian",
-    "src": "/pdf/faperta.pdf"
+    "src": "/pdf/faperta.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Organik 2024 (L.AT.3.1.).",
+      "Pakaian atas kemeja putih dan jas almamater (L.AT.3.2.).",
+      "Pakaian bawah",
+      "Laki-laki: celana panjang bahan formal (bukan jeans) warna gelap, dan tidak ketat (L.AT.3.2.).",
+      "Perempuan: rok bahan warna gelap (bukan jeans/sifon) polos, panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang) (L.AT.3.2).",
+      "Rambut rapi, jika panjang mohon diikat.",
+      "Jika berjilbab, mengenakan jilbab segi empat polos berwarna gelap (L.AT.3.2).",
+      "Sepatu tertutup.",
+      "Kaus kaki berwarna bebas (minimal menutup mata kaki)."
+    ],
+    "ATK": [
+      "Alat tulis",
+      "Buku catatan/buku tulis",
+      "Tas ransel",
+      "Botol air minum (tumbler)",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Spidol berwarna (selain warna hitam) minimal 2 pcs",
+      "Tisu",
+      "Topi (model bebas)",
+      "Alat ibadah (termasuk alas/sajadah)",
+      "Sandal (untuk berwudhu)",
+      "Obat dan perlengkapan pribadi",
+      "Lotion anti nyamuk"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas dan fakultas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor ke pemandu/Co-facilitator. Mohon gunakan pita merah dan peniti yang disematkan pada lengan kiri dan tidak di lepas selama kegiatan (menggunakan pita yang diberikan pada hari pertama pelaksanaan PIONIR Universitas).",
+      "Bagi yang menjalani diet khusus, harap menyesuaikan dengan membawa kebutuhan pribadi.",
+      "Dilarang membawa dan mememakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata/benda tajam dan obat-obatan terlarang.",
+      "Dilarang menggunakan rokok/rokok elektrik (vape) selama kegiatan berlangsung dan/atau di lingkungan Fakultas Pertanian.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Peternakan",
-    "src": "/pdf/fapet.pdf"
+    "src": "/pdf/fapet.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Rancher 2024 (L.AT.3.1.).",
+      "Pakaian atas : Kemeja putih lengan panjang dan jas almamater (L.AT.3.2.).",
+      "Pakaian bawah:",
+      "Laki-laki: celana panjang bahan formal (bukan jeans), warna hitam dan tidak ketat (L.AT.3.2.).",
+      "Perempuan: rok bahan hitam (bukan jeans/sifon) polos, panjang semata kaki, rapi, dan sopan (tidak ketat dan tidak menerawang) (L.AT.3.2.).",
+      "Rambut rapi dan berwarna natural (L.AT.3.2.).",
+      "Jika berjilbab, mengenakan jilbab segi empat polos berwarna hitam (L.AT.3.2.).",
+      "Sepatu tertutup berwarna gelap (bukan flat shoes) (L.AT.3.2.).",
+      "Kaus kaki berwarna bebas, minimal semata kaki (L.AT.3.2.)."
+    ],
+    "ATK": [
+      "Bolpoin hitam",
+      "Buku catatan/buku tulis",
+      "Pensil",
+      "Penghapus",
+      "Correction tape",
+      "Penggaris",
+      "Papan dada",
+      "Tas ransel",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Tisu kering dan tisu basah",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "perlengkapankhusus": [
+      "Hari Ke-3 : Pas foto berwarna ukuran 3 x 4 berjumlah 2 buah.",
+      "Hari Ke-3 : Gunting 1 buah.",
+      "Hari Ke-3 : Spidol warna-warni 1 pack isi 12 warna.",
+      "Hari Ke-3 : Kertas manila berwarna putih.",
+      "Hari Ke-3 : Lem stick 2 buah."
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Psikologi",
-    "src": "/pdf/psiko.pdf"
+    "src": "/pdf/psiko.pdf",
+    "kebutuhan": [
+      "Co-card menggunakan tali dan tempat co-card dari PIONIR hari ke-1 dan hari ke-2 serta name tag Pionir PRK 2024 yang akan disediakan panitia (L.AT.3.1.)",
+      "Pakaian atas",
+      "Kemeja/blouse batik, lengan pendek atau panjang, bagian kerah normal (tidak terlalu rendah), tidak ketat, tidak menerawang, rapi, dan dimasukkan.",
+      "Pakaian bawah",
+      "Laki-laki: celana panjang berwarna gelap polos, bahan formal (bukan jeans), panjang semata kaki, rapi, dan sopan (tidak ketat dan tidak menerawang).",
+      "Perempuan: celana/rok bahan berwarna gelap polos (bukan jeans/sifon), panjang semata kaki, rapi, dan sopan (tidak ketat dan tidak menerawang). Apabila menggunakan celana, model yang digunakan bukan kulot atau kargo.",
+      "Rambut rapi dan berwarna natural.",
+      "Laki-laki: Rambut pendek harus rapi dan Rambut panjang harus diikat rapi dengan ikat rambut.",
+      "Perempuan:",
+      "Rambut pendek di atas bahu tidak perlu diikat tetapi harus tetap rapi.",
+      "Rambut panjang harus diikat rapi dengan ikat rambut.",
+      "Jika berjilbab, mengenakan jilbab segi empat polos berwarna hitam, tanpa motif, dan tanpa hiasan.",
+      "Sepatu tertutup (sneaker atau kets, bukan: crocs, flat shoes, sandal gunung, selop, atau sandal jepit) berwarna gelap bebas yang nyaman digunakan untuk mobilitas.",
+      "Kaus kaki berwarna bebas minimal semata kaki."
+    ],
+    "ATK": [
+      "Lembar Kerja ugm.id/LembarKerjaPRK24 (dicetak berwarna dengan ukuran kertas HVS A4, lembar kerja tidak perlu diisi terlebih dahulu) (L.AT.3.2.).",
+      "Bolpoin hitam/biru",
+      "Alat tulis berwarna selain hitam/biru",
+      "Buku catatan/buku tulis",
+      "Correction tape",
+      "Papan jalan",
+      "Tas ransel",
+      "Topi (sangat disarankan, contoh: topi baseball/bucket hat/cap)",
+      "Botol air minum (tumbler) minimal 750 ml",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Tisu basah (opsional)",
+      "Hand sanitizer (opsional)",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan fakultas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter)",
+      "WAJIB LAPOR pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani DIET KHUSUS, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam, flare, petasan, obat-obatan terlarang dan benda berbahaya lainnya.",
+      "Dilarang merokok (elektrik dan non-elektrik) dan membawa minuman beralkohol selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi.",
+      "Dilarang melakukan tindakan asusila."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Teknik",
-    "src": "/pdf/teknik.pdf"
+    "src": "/pdf/teknik.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card fakultas, diletakkan di sisi belakangco-card universitas.",
+      "Topi berwarna gelap (diutamakan hitam).",
+      "Pakaian atas: Pakaian atas disesuaikan dengan pakaian atas yang digunakansaat PIONIR Gadjah Mada 2024 hari ke-1 sebagai berikut:",
+      "a. Kemeja putih formal lengan panjang dengan ukuran standar (bukan model crop).",
+      "b. Memakai kaus dalam warna putih polos.",
+      "c. Kemeja wajib dimasukkan bagi laki-laki dan tidak wajib bagi perempuan.",
+      "Pakaian bawah: Pakaian bawah disesuaikan dengan pakaian atas yang digunakansaat PIONIR Gadjah Mada 2024 sebagai berikut:",
+      "a. Laki-laki: celana panjang, warna gelap (diutamakan hitam), bahanbukan jeans, dan tidak ketat.",
+      "b. Perempuan: rok polos warna gelap (diutamakan hitam), bahanbukan jeans/sifon, panjang semata kaki, rapi, tanpa belahanberlebihan, tidak ketat, tidak transparan, dan model bebas.",
+      "Rambut: a. Laki-laki: rapi (tidak menyentuh alis dan telinga) dan berwarnanatral.",
+      "b. Perempuan: rapi (diikat apabila rambut sepanjang pundak), apabilaberjilbab menggunakan jilbab segi empat polos warna hitam.",
+      "Kuku bersih, tidak panjang, dan tidak dicat warna.",
+      "Ikat pinggang berwarna gelap (disarankan hitam)",
+      "Sepatu tertutup, bukan sepatu sandal, warna dominan hitam, dankauskaki berwarna putih",
+      "Tas ransel (warna tas menyesuaikan dengan ketentuan universitas), dilengkapi dengan tanda pengenal.",
+      "Tanda pengenal tas.",
+      "Jurnal Kesatria Muda: membawa jurnal yang sudah dicetak."
+    ],
+    "ATK": [
+      "a. Alat tulis (bolpoin, pensil, penghapus, correction pen, spidol warna)",
+      "b. Kartu identitas (KTP/KTM/SIM/Passport)",
+      "c. Masker medis dan membawa masker cadangan bagi Kesatria Muda yang sedang dalam keadaan kurang sehat",
+      "d. Hand sanitizer",
+      "e. Air minum dalam botol isi ulang (tumbler) minimal 750 ml. Tidak boleh membawa air minum dalam kemasan",
+      "f. Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "g. Alat ibadah (termasuk sajadah dan sandal jepit untuk yang beragama islam)",
+      "h. Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang sudah disediakan oleh panitia PIONIR Kesatria 2024 untuk dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Teknologi Pertanian",
-    "src": "/pdf/ftp.pdf"
+    "src": "/pdf/ftp.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card",
+      "(L.AT.3.1.).",
+      "Pakaian atas (L.AT.3.2.).",
+      "Pakaian bawah (L.AT.3.2.).",
+      "Rambut",
+      "Laki-laki: berpotongan rapi.",
+      "Perempuan: jika berambut panjang, wajib diikat. Jika berjilbab, mengenakan jilbab segi empat berwarna hitam polos dan tidak transparan.",
+      "Ikat pinggang (opsional).",
+      "Menggunakan kaus kaki dan sepatu tertutup atau bukan flatshoes",
+      "(warna dominan hitam atau gelap).",
+      "ATK dan perlengkapan pribadi.",
+      "Menggunakan kaus kaki dan sepatu tertutup atau bukan flatshoes",
+      "(warna dominan hitam atau gelap)."
+    ],
+    "ATK": [
+      "Pensil 2B",
+      "Spidol warna (minimal 3 warna)",
+      "Penghapus",
+      "Bolpoin",
+      "Penggaris",
+      "Map plastik berwarna putih bening (L.AT.3.3.)",
+      "Clipboard",
+      "Tas ransel",
+      "Botol minum (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Lotion anti nyamuk (opsional)",
+      "Masker medis (opsional)",
+      "Tisu basah (opsional)",
+      "Hand sanitizer",
+      "Alat ibadah",
+      "Obat pribadi",
+      "Payung",
+      "Kertas HVS (2 lembar)"
+    ],
+    "perlengkapankhusus": [
+      "Hari Ke-3 : Print Lembar Kerja 3.1. (L.AT. 3.4.).",
+      "Hari Ke-3 : Print gambar makanan berwarna sesuai dengan ketentuan. (L.AT.3.5.).",
+      "Hari Ke-3 : Tampah ukuran 50 cm x 50 cm yang dicat warna hijau dan kuning yang sudah diberikan identitas nama, pasukan, dan NIM (L.AT.3.6.)."
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter ber-SIP) wajib lapor pemandu/co-facilitatoMohon disiapkan pita merah dan peniti yang disematkan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang.",
+      "Dilarang merokok/vape dan minum beralkohol selama kegiatan.",
+      "Dilarang melakukan tindakan asusila.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   },
   {
-    "public": false,
+    "public": true,
     "fakultas": "Vokasi",
-    "src": "/pdf/sv.pdf"
+    "src": "/pdf/sv.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Gadjah Mada 2024.",
+      "Pakaian atas adalah kemeja batik lengan pendek atau panjang.",
+      "Pakaian bawah:",
+      "Laki-laki: celana panjang bahan formal (bukan jeans) berwarna gelap (disarankan hitam), dan tidak ketat (L.AT.3.1.).",
+      "Perempuan: rok bahan berwarna gelap (disarankan hitam) (bukan jeans/sifon) polos, panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang) (L.AT.3.1.).",
+      "Menggunakan ikat pinggang berwarna hitam (opsional).",
+      "Rambut rapi dan berwarna natural:",
+      "Laki-laki: rambut pendek dan rapi.",
+      "Perempuan: apabila berambut panjang, rambut wajib diikat.",
+      "Jika berjilbab, mengenakan jilbab segi empat polos (tidak berenda, tidak menerawang, dan tidak bermotif) berwarna gelap (disarankan hitam).",
+      "Sepatu tertutup dan berwarna bebas.",
+      "Kaus kaki berwarna bebas minimal semata kaki."
+    ],
+    "ATK": [
+      "Kertas HVS 3 lembar ukuran A4",
+      "Buku catatan/buku tulis",
+      "Bolpoin tinta hitam",
+      "Tas ransel",
+      "Penggaris",
+      "Spidol berwarna (selain warna hitam) minimal 3 warna bebas",
+      "Lem kertas/selotip kertas/masking tape",
+      "Masker medis (opsional)",
+      "Double Tape",
+      "Hand sanitizer",
+      "Botol air minum minimal 750 ml",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "perlengkapankhusus": [
+      "1 lembar kertas Asturo berwarna merah dengan kode warna 16 (prioritas warna), kode warna 56 (opsi 2), ukuran 40 cm x 40 cm.",
+      "1 lembar kertas Asturo berwarna putih dengan ukuran 40 cm x 40 cm.",
+      "1 lembar kertas karton ukuran 40 cm x 40 cm dengan ketebalan 3 mm.",
+      "Lem serbaguna PVA (L.AT.3.2.)."
+    ],
+    "catatanKhusus": [
+      "Mengikuti seluruh peraturan universitas.",
+      "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
+      "Bagi yang menjalani diet khusus, harap mempersiapkan keperluannya secara mandiri.",
+      "Dilarang membawa dan memakai perhiasan secara berlebihan.",
+      "Dilarang membawa senjata tajam dan obat-obatan terlarang (NAPZA).",
+      "Dilarang merokok/vape selama kegiatan.",
+      "Setiap peserta wajib menjaga kehormatan diri dan institusi."
+    ]
   }
 ]

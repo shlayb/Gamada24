@@ -14,10 +14,19 @@ export default function GetId() {
   }, []);
 
   const handleNameChange = (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
-    const newName = (document.getElementById('MyName') as HTMLInputElement)?.value;
-    setName(newName);
-    document.cookie = `username=${newName}`;
-    window.location.reload();
+    const userFakultas = document.cookie.replace(/(?:(?:^|.*;\s*)fakultas\s*\=\s*([^;]*).*$)|^.*$/, '$1');
+    if (userFakultas) {
+      const newName = (document.getElementById('MyName') as HTMLInputElement)?.value;
+      if (newName) {
+        setName(newName);
+        document.cookie = `username=${newName}`;
+        window.location.reload();
+      } else {
+        return alert('Masukan Nama terlebih dahulu');
+      }
+    } else {
+      return alert('Pilih Fakultas terlebih dahulu');
+    }
   };
 
   return (

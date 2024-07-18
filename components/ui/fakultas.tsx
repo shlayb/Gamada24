@@ -33,7 +33,7 @@ export default function Fakultas() {
             })
           ) : (
             <>
-              <h1>is client false</h1>
+              <h1>client is false</h1>
             </>
           )}
         </div>
