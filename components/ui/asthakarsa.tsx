@@ -21,7 +21,15 @@ export default function Asthakarsa() {
             <CheckItem item="Lem PVA serbaguna" />
             <hr className="my-2 border-[1px] " />
             <h2 className="text-lg font-medium pt-4 pb-2">Youtube Tutorial</h2>
-            <iframe src="https://www.youtube.com/watch?v=1cOu7jMlaPI" className="w-full aspect-16/9 p-2"></iframe>
+            <iframe
+              className="w-full aspect-16/9 p-2 rounded-2xl"
+              src="https://www.youtube.com/embed/1cOu7jMlaPI?si=1uoyleDDhN6CCO2D"
+              title="YouTube video player"
+              frameBorder="1"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
           </div>
         </div>
       </div>
