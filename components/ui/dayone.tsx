@@ -1,13 +1,10 @@
 import CheckItem from './checkboxitem';
 
 export default function DayOne() {
-  
-
-
   return (
     <>
       <div className="py-16 px-4">
-        <h1 className="py-4 text-4xl font-bold">Hari ke-1 dan ke-6</h1>
+        <h1 className="py-4 text-4xl font-bold text-center">Hari ke-1 dan ke-6</h1>
         <hr className="my-2 border-[1px] " />
         <div>
           <h2 className="text-lg">Perlengkapan/Pakaian Umum:</h2>

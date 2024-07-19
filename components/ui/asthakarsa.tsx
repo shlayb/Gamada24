@@ -4,7 +4,7 @@ export default function Asthakarsa() {
   return (
     <>
       <div className="py-16 px-4">
-        <h1 className="py-4 text-4xl font-bold">Asthakarsa</h1>
+        <h1 className="py-4 text-4xl font-bold text-center">Asthakarsa</h1>
         <hr className="my-2 border-[1px] " />
         <div>
           <h2 className="text-lg font-medium pt-4 pb-2">Alat dan Bahan :</h2>
