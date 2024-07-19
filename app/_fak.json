@@ -1,6 +1,49 @@
 [
   {
     "public": true,
+    "fakultas": "Biologi",
+    "src": "/pdf/biologi.pdf",
+    "kebutuhan": [
+      "Co-card, menggunakan co-card PIONIR Metamorphoself 2024 (L.AT.3.1.)",
+      "Pakaian atas: Kemeja lengan pendek atau panjang bercorak batik, berkerah, tidak menerawang, dan tidak ketat (L.AT.3.2.)",
+      "Pakaian bawah laki-laki: celana panjang sampai mata kaki, bahan formal (bukan jeans/denim), warna hitam, dan tidak ketat (L.AT.3.2.)",
+      "Pakaian bawah perempuan: rok hitam (bukan bahan jeans/sifon) polos, panjang semata kaki, rapi, sopan (tidak ketat dan tidak menerawang), model bebas (L.AT.3.2.)",
+      "Ikat pinggang (opsional)",
+      "Sepatu: tertutup dan warna dominan gelap (disarankan hitam) (L.AT.3.2.)",
+      "Kaus kaki: warna bebas, tidak mencolok, dan minimal semata kaki (L.AT.3.2.)",
+      "Rambut: Rapi",
+      "Rambut laki-laki: tidak disemir warna, rambut tidak menutupi penglihatan, dan tidak melewati telinga (L.AT.3.2.)",
+      "Rambut perempuan: Jika berambut panjang, diikat satu dan tidak disemir warna (L.AT.3.2)",
+      "Rambut perempuan: Jika berjilbab, jilbab segi empat polos berwarna hitam/gelap, tidak menerawang, dan nyaman digunakan (L.AT.3.2.)"
+    ],
+    "ATK": [
+      "Smartphone dengan kuota internet",
+      "Logbook bioda (L.AT.3.3.)",
+      "Bolpoin hitam",
+      "Correction pen",
+      "Alat warna: spidol warna/krayon/pensil warna (cukup pilih salah satu)",
+      "Penggaris",
+      "Clipboard",
+      "Tas ransel",
+      "Botol minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Lotion anti nyamuk",
+      "Tisu basah dan tisu kering",
+      "Hand sanitizer",
+      "Alat ibadah pribadi",
+      "Alat makan pribadi (sendok dan/atau garpu jika diperlukan)",
+      "Obat pribadi"
+    ],
+    "catatanKhusus": [
+      "Bioda dilarang untuk berdandan secara berlebihan (make up yang diperbolehkan hanya bedak dan berwarna natural/tidak mencolok, penggunaan contact lense hanya berwarna sesuai dengan mata), diperbolehkan membawa dan menggunakan skincare secukupnya saat acara berlangsung, serta dilarang membawa barang-barang lain selain yang disebutkan di atas. ",
+      "Diperbolehkan membawa smartphone dengan catatan tidak digunakan selama kegiatan berlangsung, kecuali jika diperbolehkan oleh panitia",
+      "Tidak diperbolehkan membawa alat elektronik lain, seperti laptop atau tablet.",
+      "Ketentuan di atas berlaku selama PIONIR Metamorphoself 2024.",
+      "Penugasan atau atribut di luar website resmi pionir.ugm.ac.id harus diabaikan."
+    ]
+  },
+  {
+    "public": true,
     "fakultas": "Ekonomi dan Bisnis",
     "src": "/pdf/feb.pdf",
     "kebutuhan": [
