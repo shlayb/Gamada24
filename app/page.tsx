@@ -4,6 +4,7 @@ import Hero from '@/components/ui/hero';
 import DayTwo from '@/components/ui/daytwo';
 import Fakultas from '@/components/ui/fakultas';
 import GetId from '@/components/ui/getid';
+import Asthakarsa from '@/components/ui/asthakarsa';
 DayTwo;
 
 const poppins = Poppins({
@@ -28,6 +29,9 @@ export default function Home() {
           </div>
           <div id="Day2">
             <DayTwo />
+          </div>
+          <div>
+            <Asthakarsa />
           </div>
           <div id="Fakultas">
             <Fakultas />
