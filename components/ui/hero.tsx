@@ -18,7 +18,7 @@ export default function Hero() {
           <h1 className="text-6xl font-black">GAMADA 2024</h1>
           <div className="py-7">
             <p className="">Webiste ini dibuat untuk memudahkan para gamada </p>
-            <p className="">yang sedang bersiap menghadapi masa PPSMB 2024 </p>
+            <p className="">yang sedang bersiap menghadapi masa PIONIR 2024 </p>
           </div>
           <div className="flex justify-center py-5">
             <a href="/#Getid" className="p-2 px-5 rounded-full text-center border-slate-800 border-[1px]  bg-blue-500">
