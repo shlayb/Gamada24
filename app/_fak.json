@@ -73,6 +73,7 @@
       "Obat pribadi"
     ],
     "perlengkapankhusus": ["Foto bebas ukuran 2R untuk pengisian booklet", "Double tape"],
+    "Kebutuhan2": ["Pakaian atas menggunakan atasan batik, dapat menggunakan lengan pendek atau panjang serta menggunakan jas almamater"],
     "catatanKhusus": [
       "Mengikuti seluruh peraturan universitas",
       "Lapor ke pemandu/co-facilitator jika memiliki masalah kesehatan (sertai surat dokter jika perlu), dan siapkan pita merah serta peniti untuk dikenakan di lengan kiri selama kegiatan",
@@ -104,6 +105,32 @@
       "Alat tulis secukupnya",
       "Botol minum minimal 750 ml",
       "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Tisu ukuran travel pack",
+      "Alat ibadah (termasuk sajadah untuk yang beragama Islam)",
+      "Sandal sebagai alat penunjang ibadah untuk yang beragama Islam",
+      "Obat pribadi"
+    ],
+    "Kebutuhan2": [
+      "Name tag menggunakan name tag dari PIONIR Gadjah Mada 2024.",
+      "Pakaian atas",
+      "Jas almamater (L.AT.4.1.)",
+      "Kemeja batik atau bercorak khas daerah Indonesia, berkerah, tidak menerawang dan tidak ketat (L.AT.4.1.)",
+      "Pakaian bawah",
+      "Laki-laki mengenakan celana panjang sampai mata kaki, bahan formal (bukan jeans/denim), warna hitam, dan tidak ketat (L.AT.4.1.)",
+      "Perempuan mengenakan rok hitam (bukan bahan jeans/sifon) polos, panjang semata kaki, rapi, sopan (tidak ketat dan tidak menerawang), model bebas (L.AT.4.1.)",
+      "Sepatu tertutup, warna dominan hitam (L.AT.4.1.)",
+      "Kaos kaki warna putih, panjang minimal menutup mata kaki (L.AT.4.1.)",
+      "Rambut",
+      "Laki-laki: tidak disemir warna, tidak menyentuh alis dan telinga (L.AT.4.1.)",
+      "Perempuan:",
+      "Jika berambut panjang, rambut diikat rapi dan tidak disemir warna (L.AT.4.2.)",
+      "Jika berjilbab, jilbab segi empat polos berwarna bebas, tidak menerawang (L.AT.4.1.)",
+      "Kuku tidak panjang dan tidak dicat warna (L.AT.4.2.)"
+    ],
+    "ATK2": [
+      "Alat tulis secukupnya",
+      "Botol minum minimal 750 ml",
+      "Alat Makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
       "Tisu ukuran travel pack",
       "Alat ibadah (termasuk sajadah untuk yang beragama Islam)",
       "Sandal sebagai alat penunjang ibadah untuk yang beragama Islam",
@@ -268,6 +295,24 @@
       "Clipboard",
       "Gunting atau cutter",
       "Double tape putih",
+      "Tas ransel",
+      "Botol air minum minimal 750 ml",
+      "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
+      "Tisu basah",
+      "Hand sanitizer/tisu basah",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
+    "Kebutuhan2": [
+      "Pakaian Atas: pakaian khas daerah masing-masing atau pakaian batik",
+      "Pakaian Bawah:",
+      "  Laki-laki: bawahan baju khas daerah masing-masing, tidak pendek dan tidak ketat atau celana panjang formal (bukan jeans) berwarna gelap, tidak ketat, dan tidak menerawang.",
+      "  Perempuan: bawahan baju khas daerah masing-masing atau rok bahan (bukan jeans/sifon), warna gelap polos, panjang semata kaki, rapi dan sopan (tidak ketat dan tidak menerawang)."
+    ],
+    "ATK2": [
+      "ATK (bolpoin, pensil, correction pen, double tape dan alat tulis lain yang diperlukan)",
+      "Buku catatan/buku tulis",
+      "Clipboard",
       "Tas ransel",
       "Botol air minum minimal 750 ml",
       "Alat makan: sendok, garpu, dan kotak makan (bukan sekali pakai)",
@@ -641,6 +686,34 @@
       "Hari Ke-3 : Kertas manila berwarna putih.",
       "Hari Ke-3 : Lem stick 2 buah."
     ],
+    "Kebutuhan2": [
+      "Co-card, menggunakan co-card PIONIR Rancher 2024 (L.AT.4.1.)",
+      "Pakaian atas: Baju batik sopan dan formal (L.AT.4.2.)",
+      "Pakaian bawah:",
+      "Laki-laki: celana panjang bahan formal (bukan jeans), warna hitam, dan tidak ketat (L.AT.4.2.)",
+      "Perempuan: celana panjang bahan formal (bukan jeans), warna hitam, dan tidak ketat (L.AT.4.2.)",
+      "Rambut rapi dan berwarna natural (L.AT.4.2.)",
+      "Jika berjilbab, mengenakan jilbab segi empat polos berwarna hitam (L.AT.4.2.)",
+      "Sepatu tertutup berwarna gelap (bukan flat shoes) (L.AT.4.2.)",
+      "Kaus kaki berwarna bebas minimal semata kaki (L.AT.4.2.)"
+    ],
+    "ATK2": [
+      "Sepatu Kandang",
+      "Topi",
+      "Bolpoin hitam",
+      "Buku catatan/buku tulis",
+      "Pensil",
+      "Penghapus",
+      "Correction tape",
+      "Penggaris",
+      "Papan dada",
+      "Tas ransel",
+      "Botol air minum minimal 750 ml (tumbler)",
+      "Alat makan: sendok, garpu, dan tempat makan (bukan sekali pakai)",
+      "Tisu kering dan tisu basah",
+      "Alat ibadah",
+      "Obat pribadi"
+    ],
     "catatanKhusus": [
       "Mengikuti seluruh peraturan universitas.",
       "Bagi yang memiliki masalah kesehatan (jika perlu disertai surat dokter) wajib lapor pemandu/co-facilitator. Mohon disiapkan pita merah dan peniti yang dikenakan di lengan kiri dan dipakai selama kegiatan.",
@@ -784,7 +857,8 @@
     "perlengkapankhusus": [
       "Hari Ke-3 : Print Lembar Kerja 3.1. (L.AT. 3.4.).",
       "Hari Ke-3 : Print gambar makanan berwarna sesuai dengan ketentuan. (L.AT.3.5.).",
-      "Hari Ke-3 : Tampah ukuran 50 cm x 50 cm yang dicat warna hijau dan kuning yang sudah diberikan identitas nama, pasukan, dan NIM (L.AT.3.6.)."
+      "Hari Ke-3 : Tampah ukuran 50 cm x 50 cm yang dicat warna hijau dan kuning yang sudah diberikan identitas nama, pasukan, dan NIM (L.AT.3.6.).",
+      "Hari ke-4 : menggunakan kemeja corak batik atau khas daerah masing- masing dan jas almamater (L.AT.4.1.)."
     ],
     "catatanKhusus": [
       "Mengikuti seluruh peraturan universitas.",

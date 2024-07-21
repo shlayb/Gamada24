@@ -21,7 +21,17 @@ export default function Fakultas() {
             kluster.map((fak, index) => {
               if (fak.fakultas === fakul) {
                 return fak.public ? (
-                  <FakDrop key={index} fakultas={fak.fakultas} src={fak.src} kebutuhan={fak.kebutuhan} ATK={fak.ATK} catatankhusus={fak.catatanKhusus} perlengkapankhusus={fak.perlengkapankhusus} />
+                  <FakDrop
+                    key={index}
+                    fakultas={fak.fakultas}
+                    src={fak.src}
+                    kebutuhan={fak.kebutuhan}
+                    ATK={fak.ATK}
+                    ATK2={fak.ATK2}
+                    catatankhusus={fak.catatanKhusus}
+                    perlengkapankhusus={fak.perlengkapankhusus}
+                    Kebutuhan2={fak.Kebutuhan2}
+                  />
                 ) : (
                   <>
                     <h1 className="text-center font-medium text-3xl p-5">~Not Found~</h1>

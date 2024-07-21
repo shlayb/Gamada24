@@ -10,9 +10,11 @@ interface FakDropProps {
   ATK?: string[];
   catatankhusus?: string[];
   perlengkapankhusus?: string[];
+  Kebutuhan2?: string[];
+  ATK2?: string[];
 }
 
-export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, perlengkapankhusus }: FakDropProps) {
+export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, perlengkapankhusus, Kebutuhan2 }: FakDropProps) {
   const pdf = useRef<HTMLDivElement>(null);
 
   // useEffect(() => {
@@ -36,6 +38,11 @@ export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, 
             <iframe src={src} className="w-[90%] aspect-3/4"></iframe>
           </div>
         ) : null} */}
+        {kebutuhan ? (
+          <>
+            <h1 className="font-medium text-center p-2 text-xl">KEBUTUHAN HARI KE-3</h1>
+          </>
+        ) : null}
         {kebutuhan ? (
           <div ref={pdf} className=" px-4 py-2 pb-4 transition-all ease-linear duration-100">
             <h2 className="font-medium text-lg">PERLENGKAPAN/PAKAIAN UMUM:</h2>
@@ -65,6 +72,34 @@ export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, 
             {perlengkapankhusus
               ? perlengkapankhusus.map((item, index) => {
                   return <CheckItem key={index} item={'Pada Hari ke-3 : ' + item} />;
+                })
+              : null}
+          </div>
+        ) : null}
+        {Kebutuhan2 ? (
+          <>
+            <hr className="my-2 border-[1px] " />
+            <h1 className="font-medium text-center p-2 text-xl">KEBUTUHAN HARI KE-4</h1>
+          </>
+        ) : null}
+        {Kebutuhan2 ? (
+          <div ref={pdf} className=" px-4 py-2 pb-4 transition-all ease-linear duration-100">
+            <h2 className="font-medium text-lg">PERLENGKAPAN/PAKAIAN UMUM:</h2>
+            <hr className="my-2 border-[1px] " />
+            {Kebutuhan2
+              ? Kebutuhan2.map((item, index) => {
+                  return <CheckItem key={index} item={item} />;
+                })
+              : null}
+          </div>
+        ) : null}
+        {ATK ? (
+          <div ref={pdf} className=" px-4 py-2 pb-4 transition-all ease-linear duration-100">
+            <h2 className="font-medium text-lg">ATK dan perlengkapan pribadi :</h2>
+            <hr className="my-2 border-[1px] " />
+            {ATK
+              ? ATK.map((item, index) => {
+                  return <CheckItem key={index} item={item} />;
                 })
               : null}
           </div>
