@@ -14,7 +14,7 @@ interface FakDropProps {
   ATK2?: string[];
 }
 
-export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, perlengkapankhusus, Kebutuhan2 }: FakDropProps) {
+export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, perlengkapankhusus, Kebutuhan2, ATK2 }: FakDropProps) {
   const pdf = useRef<HTMLDivElement>(null);
 
   // useEffect(() => {
@@ -93,12 +93,12 @@ export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, 
               : null}
           </div>
         ) : null}
-        {ATK ? (
+        {ATK2 ? (
           <div ref={pdf} className=" px-4 py-2 pb-4 transition-all ease-linear duration-100">
             <h2 className="font-medium text-lg">ATK dan perlengkapan pribadi :</h2>
             <hr className="my-2 border-[1px] " />
-            {ATK
-              ? ATK.map((item, index) => {
+            {ATK2
+              ? ATK2.map((item, index) => {
                   return <CheckItem key={index} item={item} />;
                 })
               : null}
