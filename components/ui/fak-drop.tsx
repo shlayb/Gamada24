@@ -76,7 +76,7 @@ export default function FakDrop({ fakultas, src, kebutuhan, ATK, catatankhusus, 
               : null}
           </div>
         ) : null}
-        {Kebutuhan2 ? (
+        {Kebutuhan2 || ATK2 ? (
           <>
             <hr className="my-2 border-[1px] " />
             <h1 className="font-medium text-center p-2 text-xl">KEBUTUHAN HARI KE-4</h1>
