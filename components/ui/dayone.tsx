@@ -1,6 +1,11 @@
+'use client';
 import CheckItem from './checkboxitem';
+import { useState } from 'react';
 
 export default function DayOne() {
+  const [isReady, setIsReady] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(false);
+
   return (
     <>
       <div className="py-16 px-4">
@@ -28,7 +33,7 @@ export default function DayOne() {
             <CheckItem item="Kaos kaki Berwarna bebas, menutup mata kaki" />
             <hr className="my-2 border-[1px] " />
             <h2 className="text-lg font-medium pt-4 pb-2">ATK Dan Perlengkapan Pribadi:</h2>
-            <div className="px-4">
+            <div className="px-0">
               <CheckItem item="Bolpoin" />
               <CheckItem item="Sticky notes" />
               <CheckItem item="Kertas lipat (origami)" />
@@ -46,6 +51,28 @@ export default function DayOne() {
               <CheckItem item="hand sanitizer" />
               <CheckItem item="Alat ibadah" />
               <CheckItem item="Obat pribadi" />
+              <hr className="my-2 border-[1px] " />
+              <h2 className="text-lg font-medium pt-4 pb-2">Perlengkapan Khusus :</h2>
+              <CheckItem item="Atribut Caping" />
+              <CheckItem item="Atribut Asthakarsa" />
+              <CheckItem item="Atribut Kertas koran/Kardus(sebagai alas duduk)" />
+              <audio id="lagu" className="w-full" src="/lagu-selebrasi.mp3"></audio>
+              <button
+                onClick={() => {
+                  setIsReady(!isReady);
+                  isPlaying ? (document.getElementById('lagu') as HTMLAudioElement)?.pause() : (document.getElementById('lagu') as HTMLAudioElement)?.play();
+                }}
+                className={`text-2xl w-full my-4 rounded-2xl p-4 border-2 border-slate-800 ${isReady ? 'bg-blue-500' : 'bg-light'}`}
+              >
+                {isReady ? (
+                  <span>
+                    <i className="fa-solid fa-check scale-110"></i>
+                    {'  '}
+                    {'  '}
+                  </span>
+                ) : null}
+                <span className="text-center ">i&apos;m Ready For Pionir</span>
+              </button>
             </div>
           </div>
         </div>
