@@ -62,7 +62,7 @@ export default function DayOne() {
                   setIsReady(!isReady);
                   isPlaying ? (document.getElementById('lagu') as HTMLAudioElement)?.pause() : (document.getElementById('lagu') as HTMLAudioElement)?.play();
                 }}
-                className={`text-2xl w-full my-4 rounded-2xl p-4 border-2 border-slate-800 ${isReady ? 'bg-blue-500' : 'bg-light'}`}
+                className={`text-2xl w-full my-4 rounded-2xl p-4 border-2 border-slate-800 dark:border-slate-100 ${isReady ? 'bg-blue-500' : 'bg-light dark:bg-dark'}`}
               >
                 {isReady ? (
                   <span>
